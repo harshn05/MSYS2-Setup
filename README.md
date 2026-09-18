@@ -7,6 +7,6 @@ pacman -S mingw-w64-ucrt-x86_64-{vtk,itk,muparser,armadillo,cmake-gui,gcc,gcc-fo
 ```
 3. Python
 ```python
-pacman -S mingw-w64-ucrt-x86_64-python-{numpy,ipython,matplotlib,qtconsole,qtpy,ipykernel,scipy,scikit-image,sympy,cython,python-opencv,python-pip,python-pipx}
+pacman -S mingw-w64-ucrt-x86_64-python-{numpy,ipython,matplotlib,qtconsole,qtpy,ipykernel,scipy,scikit-image,sympy,cython,python-opencv,python-pip,python-pipx,pyside6}
 ```
 4. pipx install mayavi
