@@ -7,5 +7,5 @@ What to do after msys2 fresh install?
 ```
 3. Python
 ```python
-pacman -S mingw-w64-ucrt-x86_64-python-{numpy,ipython,matplotlib,qtconsole,qtpy,ipykernel,scipy,scikit-image,sympy
+pacman -S mingw-w64-ucrt-x86_64-python-{numpy,ipython,matplotlib,qtconsole,qtpy,ipykernel,scipy,scikit-image,sympy}
 ```
