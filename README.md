@@ -7,6 +7,5 @@ pacman -S axel make tree mingw-w64-ucrt-x86_64-{vtk,itk,muparser,armadillo,cmake
 ```
 3. Python
 ```bash
-pacman -S mingw-w64-ucrt-x86_64-{cython,pyside6}
-pacman -S mingw-w64-ucrt-x86_64-python-{numpy,ipython,matplotlib,qtconsole,qtpy,ipykernel,scipy,scikit-image,sympy,opencv,pip,pipx}
+pacman -S mingw-w64-ucrt-x86_64-{cython,pyside6} mingw-w64-ucrt-x86_64-python-{numpy,ipython,matplotlib,qtconsole,qtpy,ipykernel,scipy,scikit-image,sympy,opencv,pip,pipx}
 ```
