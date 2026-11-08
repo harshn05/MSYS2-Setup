@@ -7,7 +7,7 @@ pacman -S axel make tree bc bison diffutils dos2unix flex m4 patch sharutils zip
 ```
 Not necessary to install (oh-my-posh,ttf-meslo-nerd) as these can be used from the external/common installation. 
 
-3. Python
+3. Python (Optional, Not Required for WinDev as WinDev-Python is available)
 ```bash
 pacman -S mingw-w64-ucrt-x86_64-{cython,pyside6} mingw-w64-ucrt-x86_64-python-{numpy,ipython,matplotlib,qtconsole,qtpy,ipykernel,scipy,scikit-image,sympy,opencv,pip,pipx}
 ```
