@@ -11,3 +11,10 @@ Not necessary to install (oh-my-posh,ttf-meslo-nerd) as these can be used from t
 ```bash
 pacman -S mingw-w64-ucrt-x86_64-{cython,pyside6} mingw-w64-ucrt-x86_64-python-{numpy,ipython,matplotlib,qtconsole,qtpy,ipykernel,scipy,scikit-image,sympy,opencv,pip,pipx}
 ```
+
+
+REMOVE LARGE UNNECESSARY PACKAGES:
+
+```bash
+pacman -R mingw-w64-ucrt-x86_64-qt6-doc
+```
